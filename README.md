@@ -1,29 +1,26 @@
 # WindowsPackages
 List of windows software for a new installation
 
-Chocolatey
-
-autohotkey
-
-bleachbit
-bsplayer
-fd
-font-awesome-font
-gh
-irfanview
-libreoffice-fresh
-notepadplusplus.install
-obs-studio
-obsidian
-python3
-shutup10
-teracopy
-totalcommander
-vcredist140
-vmware-workstation-player
-vscode
-Wget
-
+Chocolatey  
+autohotkey  
+bleachbit  
+bsplayer  
+fd  
+font-awesome-font  
+gh  
+irfanview  
+libreoffice-fresh  
+notepadplusplus.install  
+obs-studio  
+obsidian  
+python3  
+shutup10  
+teracopy  
+totalcommander  
+vcredist140  
+vmware-workstation-player  
+vscode  
+Wget  
 
 Name                                    Id                                          Version            Available Source
 -----------------------------------------------------------------------------------------------------------------------
