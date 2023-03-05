@@ -1,7 +1,7 @@
 # WindowsPackages
 List of windows software for a new installation
 
-Chocolatey  
+## Chocolatey:  
 autohotkey  
 bleachbit  
 bsplayer  
@@ -23,7 +23,7 @@ vscode
 Wget  
 
 
-winget  
+## winget  
 EarTrumpet                              File-New-Project.EarTrumpet                 2.2.2.0                      winget  
 BeWidgets                               55290BeXCool.BeWidgets_n3myysfhx5594        0.13.0.0                       
 7-Zip 22.01 (x64)                       7zip.7zip                                   22.01                        winget  
