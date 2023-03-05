@@ -1,35 +1,26 @@
 # WindowsPackages
 List of windows software for a new installation
 
-Chocolatey v1.3.0
-autohotkey.portable 2.0.2
-bleachbit 4.4.2
-bsplayer 2.73.1084
-chocolatey 1.3.0
-chocolatey-compatibility.extension 1.0.0
-chocolatey-core.extension 1.4.0
-chocolatey-font-helpers.extension 0.0.4
-fd 8.6.0
-font-awesome-font 5.13.0
-gh 2.23.0
-irfanview 4.62
-irfanview-shellextension 1.06
-irfanviewplugins 4.62
-libreoffice-fresh 7.4.5
-notepadplusplus.install 8.4.9
-obs-studio 29.0.2
-obsidian 1.1.15
-python 3.11.0
-python3 3.11.0
-shutup10 1.9.1434
-teracopy 3.9.7
-totalcommander 10.51
-vcredist140 14.34.31938
-vmware-workstation-player 17.0.1.21139696
-vscode 1.75.1
-Wget 1.21.3
-
-
+Chocolatey
+autohotkey
+bleachbit
+bsplayer
+fd
+font-awesome-font
+gh
+irfanview
+libreoffice-fresh
+notepadplusplus.install
+obs-studio
+obsidian
+python3
+shutup10
+teracopy
+totalcommander
+vcredist140
+vmware-workstation-player
+vscode
+Wget
 
 
 Name                                    Id                                          Version            Available Source
