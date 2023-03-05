@@ -2,7 +2,9 @@
 List of windows software for a new installation
 
 Chocolatey
+
 autohotkey
+
 bleachbit
 bsplayer
 fd
